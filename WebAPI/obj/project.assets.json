@@ -1732,19 +1732,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\m9kis\\.nuget\\packages\\": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m9kis\\RiderProjects\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "/root/WebApi/WebAPI/WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\m9kis\\RiderProjects\\WebAPI\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\m9kis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m9kis\\RiderProjects\\WebAPI\\WebAPI\\obj\\",
+      "projectPath": "/root/WebApi/WebAPI/WebAPI.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/root/WebApi/WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\m9kis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1820,7 +1820,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
       }
     }
   }
